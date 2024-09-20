@@ -2,4 +2,4 @@
 
 
 > # Contact us
-
+> You can email our support team at [polarblockteam@gmail.com](mailto:polarblockteam@gmail.com)
