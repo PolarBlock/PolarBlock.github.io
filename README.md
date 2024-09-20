@@ -4,4 +4,4 @@
 
 
 > # Contact us
-> You can email our support team at [polarblockteam@gmail.com](mailto:polarblockteam@gmail.com), we to respond within 24 hours.
+> You can email our support team at [polarblockteam@gmail.com](mailto:polarblockteam@gmail.com), our support team try their best to respond within 24 hours.
