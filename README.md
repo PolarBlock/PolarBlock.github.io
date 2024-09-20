@@ -6,4 +6,4 @@
 > # Contact us
 > You can email our support team at [polarblockteam@gmail.com](mailto:polarblockteam@gmail.com), our support team try their best to respond within 24 hours.
 >
-> Keep in mind this website it still under development!
+> **Keep in mind this website it still under development!**
