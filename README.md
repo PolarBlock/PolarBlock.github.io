@@ -2,5 +2,5 @@
 
 
 
-> # Contact us
+> # <span style="colour: black;">Contact us</span>
 > You can email our support team at [polarblockteam@gmail.com](mailto:polarblockteam@gmail.com), we to respond within 24 hours.
